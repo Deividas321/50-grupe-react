@@ -24,13 +24,3 @@ align-items: center;
     flex-wrap: wrap;
 
 }
-.btn{
-    padding: 0.8em 1.3em;
-    line-height: 1em;
-    font-size: 1.1rem;
-    background-color: #36f;
-    color: #fff;
-    border-radius: 1.3em;
-    text-decoration: none;
-
-}
